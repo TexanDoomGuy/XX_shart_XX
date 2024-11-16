@@ -1,5 +1,5 @@
 const { REST, Routes } = require("discord.js");
-const token =
+//this is where token is defined. That's not happening.'
 const clientId = "1262522320069722273";
 const guildId = "1081737763054944376";
 
