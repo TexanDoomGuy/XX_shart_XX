@@ -1,0 +1,24 @@
+The punishment system for those dirty rule breakers:
+1st: Warning.
+2nd: 5-minute timeout + Prisoner.
+3rd: Hour timeout.
+4th: Kicked from server.
+5th: Week timeout.
+6th: Banned from server.
+A "streak" will be kept for the rules you've broken. A streak resets after 14 days of no rules broken. If you have been improperly punished or feel that you could behave better now, you may appeal to any Leader.
+
+Rules:
+1. Be as family-friendly as possible.
+2. Don't to things in the wrong channel. For example, using bots in general.
+3. Anyone who can ping everyone isn't allowed to do so durring 10:00 pm through 8:30 AM.
+4. Don't attack people.
+    - common ways of attacking are:
+    - Demoting.
+    - Harassing.
+    - Making laws targeted at them.
+    - Unnecessary criminal punishment.
+    - Changing their nickname.
+    - Unwanted haircuts
+5. No spam pinging.
+6. Don't blackmail.
+7. Don't abuse bots. For example, don't give or make yourself an administrator role. If caught, punishment may vary.
