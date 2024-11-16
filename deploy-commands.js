@@ -1,6 +1,6 @@
 const { REST, Routes } = require("discord.js");
 const token =
-    "MTI2MjUyMjMyMDA2OTcyMjI3Mw.GhXak7._29UY1PM_u22UPQQdet6oX3qYsaVpXvzxUiMac";
+    "also no";
 const clientId = "1262522320069722273";
 const guildId = "1081737763054944376";
 
